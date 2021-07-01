@@ -78,4 +78,9 @@ export default {
 </script>
 
 <style scope>
+.v-btn:not(.v-btn--round).v-size--default {
+    height: auto; 
+    min-width: 64px;
+    padding: 0 16px;
+}
 </style>

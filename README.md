@@ -1,5 +1,5 @@
 # app-turnos
-## Solicitud de turnos onlina por medio de la app
+## Solicitud de turnos online
 
 ## ¿Como utilizar la Aplicacion?
 * Disponible en: https://turnos-smoky.vercel.app/
